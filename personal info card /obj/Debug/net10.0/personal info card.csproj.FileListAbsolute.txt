@@ -1,0 +1,14 @@
+/Users/malak/RiderProjects/task1/personal info card /bin/Debug/net10.0/personal info card
+/Users/malak/RiderProjects/task1/personal info card /bin/Debug/net10.0/personal info card.deps.json
+/Users/malak/RiderProjects/task1/personal info card /bin/Debug/net10.0/personal info card.runtimeconfig.json
+/Users/malak/RiderProjects/task1/personal info card /bin/Debug/net10.0/personal info card.dll
+/Users/malak/RiderProjects/task1/personal info card /bin/Debug/net10.0/personal info card.pdb
+/Users/malak/RiderProjects/task1/personal info card /obj/Debug/net10.0/personal info card.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malak/RiderProjects/task1/personal info card /obj/Debug/net10.0/personal info card.AssemblyInfoInputs.cache
+/Users/malak/RiderProjects/task1/personal info card /obj/Debug/net10.0/personal info card.AssemblyInfo.cs
+/Users/malak/RiderProjects/task1/personal info card /obj/Debug/net10.0/personal info card.csproj.CoreCompileInputs.cache
+/Users/malak/RiderProjects/task1/personal info card /obj/Debug/net10.0/personal info card.dll
+/Users/malak/RiderProjects/task1/personal info card /obj/Debug/net10.0/refint/personal info card.dll
+/Users/malak/RiderProjects/task1/personal info card /obj/Debug/net10.0/personal info card.pdb
+/Users/malak/RiderProjects/task1/personal info card /obj/Debug/net10.0/personal info card.genruntimeconfig.cache
+/Users/malak/RiderProjects/task1/personal info card /obj/Debug/net10.0/ref/personal info card.dll
